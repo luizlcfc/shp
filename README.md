@@ -1,2 +1,2 @@
 # shp
-Simples HTML Project
+Simple HTML Project to exemplify a HTML content.
